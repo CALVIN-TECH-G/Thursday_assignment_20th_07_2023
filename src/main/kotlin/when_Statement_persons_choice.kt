@@ -7,6 +7,6 @@ fun main(){
         "Pizza" -> print("Pizza Hut")
         "Cake" -> print("Cakely")
         "PanCake" -> print("Food Hub")
-        else -> print("That option doesn't exist")
+        else -> print("Option not currently supported")
     }
 }
